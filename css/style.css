@@ -1,0 +1,49 @@
+#home{
+    background: #363636		;
+    color: white;
+}
+
+.caixa{
+    padding: 60px 0px;
+    border-bottom: 1px solid #e5e5e5;
+    background: #7e7d7d	;
+    color: white;
+}
+
+footer p a {
+    margin: 5px 15px;
+    text-decoration: none;
+    color:  #7e7d7d;
+    
+}
+
+footer p a:hover {
+    color:  orange;
+        
+}
+
+/*footer{
+    background: #7e7d7d;
+}*/
+
+
+#icon i {
+    color: orange;
+}
+
+#contas{
+    color: orange;
+}
+
+.navbar-dark  .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-dark  .navbar-nav .nav-link:hover {
+    color: rgb(255, 166, 0);
+}
+
+.navbar-dark .navbar-toggler{
+    color: rgb(255, 166, 0);
+    border-color: rgb(255, 166, 0);
+}
